@@ -53,6 +53,7 @@ header h1 {
   font-size: 14px;
 }
 
+
 @media (max-width: 768px) {
   .product-grid {
     grid-template-columns: 1fr 1fr;
